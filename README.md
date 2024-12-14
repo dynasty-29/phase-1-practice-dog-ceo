@@ -1,4 +1,6 @@
 # Fetch Dog CEO
+### Final product
+![alt text](dogceo.png)
 
 ## Learning Goals
 
